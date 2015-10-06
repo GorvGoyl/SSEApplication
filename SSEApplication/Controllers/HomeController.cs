@@ -13,19 +13,6 @@ namespace SSEApplication.Controllers
         
         public ActionResult Index(string id, string tailUrl)
         {
-            //var result = string.Empty;
-            //var sb = new StringBuilder();
-            //sb.AppendFormat("data: {0}\n\n", DateTime.Now.ToString());
-            //var source = Content(sb.ToString(), "text/event-stream");
-            // source.onmessage = function (e) {
-
-            //        var li = document.createElement("li");
-            //        var returnedItem = e.data;
-            //        li.textContent = returnedItem;
-            //        $("#messages").append(li);
-            //    }
-           // return View();
-
           
             var result = string.Empty;
 
