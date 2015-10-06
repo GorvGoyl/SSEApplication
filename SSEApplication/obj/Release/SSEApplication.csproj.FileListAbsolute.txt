@@ -24,3 +24,9 @@ C:\Users\Gourav\Documents\Visual Studio 2013\Projects\SSEApplication\SSEApplicat
 C:\Users\Gourav\Documents\Visual Studio 2013\Projects\SSEApplication\SSEApplication\obj\Release\SSEApplication.csprojResolveAssemblyReference.cache
 C:\Users\Gourav\Documents\Visual Studio 2013\Projects\SSEApplication\SSEApplication\obj\Release\SSEApplication.dll
 C:\Users\Gourav\Documents\Visual Studio 2013\Projects\SSEApplication\SSEApplication\obj\Release\SSEApplication.pdb
+C:\Users\Gourav\Documents\Visual Studio 2013\Projects\SSEApplication\SSEApplication\bin\System.Web.Http.dll
+C:\Users\Gourav\Documents\Visual Studio 2013\Projects\SSEApplication\SSEApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\Gourav\Documents\Visual Studio 2013\Projects\SSEApplication\SSEApplication\bin\System.Web.Http.xml
+C:\Users\Gourav\Documents\Visual Studio 2013\Projects\SSEApplication\SSEApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\Gourav\Documents\Visual Studio 2013\Projects\SSEApplication\SSEApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\Gourav\Documents\Visual Studio 2013\Projects\SSEApplication\SSEApplication\bin\System.Net.Http.Formatting.xml
